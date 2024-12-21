@@ -1,0 +1,36 @@
+{
+  "collectionOne": [
+    {
+      "left": [
+        {
+          "tag": "New Collection",
+          "title": "Online Courses from Histudy",
+          "desc": "Top instructors from around the world",
+          "img": "/images/others/video-01.jpg"
+        }
+      ],
+      "right": [
+        {
+          "tag": "Top Teacher",
+          "title": "Free Online Courses from Histudy School To Education",
+          "desc": "Top instructors from around the world"
+        }
+      ]
+    }
+  ],
+  "collectionTwo": [
+    {
+      "tag": "CALL TO ACTION",
+      "title": "Style Two",
+      "subTitle": "Ready to start creating a standard website?",
+      "desc": "Finest choice for your home & office",
+      "img": "/images/shape/cta-text.png"
+    }
+  ],
+  "collectionSix": [
+    {
+      "title": "Contact Us for More Information",
+      "desc": "We’re here to assist you with any questions or inquiries. Feel free to reach out using the details provided below."
+    }
+  ]
+}

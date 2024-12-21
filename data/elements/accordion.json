@@ -1,0 +1,408 @@
+{
+  "accordion": [
+    {
+      "tag": "accordion",
+      "title": "Histudy Course student",
+      "subTitle": "can join with us.",
+      "imgOne": "/images/about/about-01.jpg",
+      "imgTwo": "/images/about/about-04.jpg",
+      "accordionBody": [
+        {
+          "collapse": "collapseOne",
+          "heading": "headingOne",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+        },
+        {
+          "collapse": "collapseTwo",
+          "heading": "headingTwo",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree",
+          "heading": "headingThree",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour",
+          "heading": "headingFour",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        }
+      ]
+    }
+  ],
+
+  "AccordionTwo": [
+    {
+      "tag": "faq",
+      "title": "Have a Question with ",
+      "subTitle": " Histudy University?",
+      "strong": "Its an educational platform",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "imgOne": "/images/about/about-01.jpg",
+      "imgTwo": "/images/about/about-10.jpg",
+      "faqBody": [
+        {
+          "collapse": "collapseOne2",
+          "heading": "headingOne2",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose. A university can be run their online leaning management system by histudy education template."
+        },
+        {
+          "collapse": "collapseTwo2",
+          "heading": "headingTwo2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree2",
+          "heading": "headingThree2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour2",
+          "heading": "headingFour2",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        }
+      ]
+    }
+  ],
+
+  "AccordionThree": [
+    {
+      "tag": "faq",
+      "title": "Have a Question with ",
+      "subTitle": " Histudy University?",
+      "strong": "Its an educational platform",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "faqBody": [
+        {
+          "collapse": "collapseOne3",
+          "heading": "headingOne3",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "1. What is SKILLERSITY Academy?",
+          "desc": "SKILLERSITY Academy is a training institution that provides hands-on, industry-relevant courses designed to help you build a strong career in fields like digital marketing, graphic design, video editing, and more. Our courses are designed for beginners, career changers, and anyone looking to advance their skills."
+        },
+        {
+          "collapse": "collapseTwo3",
+          "heading": "headingTwo3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "2. What courses does SKILLERSITY offer?",
+          "desc": "We offer the following courses:",
+          "sub": [
+            {
+              "subto": "Advanced Diploma in Digital Marketing (3 Months)"
+            },
+             {
+
+              "subto": "Advanced Diploma in Graphic Designing (3 Months)"
+            },
+            {
+              "subto": "Advanced Diploma in Video Editing (3 Months)"
+            },
+            {
+              "subto": "Advanced Diploma in Graphic Designing & Video Editing (3 Months)"
+            },
+            {
+              "subto": "The Ultimate Creator Course! Advanced Diploma in Digital Marketing with Graphic Designing & Video Editing (3 Months)"
+            }
+          ]
+        },
+        {
+          "collapse": "collapseThree3",
+          "heading": "headingThree3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "3. How long are the courses?",
+          "desc": "Each course is designed to be completed in 3 months, offering a focused and comprehensive learning experience."
+        },
+        {
+          "collapse": "collapseFour3",
+          "heading": "headingFour3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "4. Do I need any prior experience to enroll in these courses?",
+          "desc": "No, our courses are designed to cater to beginners as well as those looking to upskill. We provide step-by-step guidance to help you master the necessary skills, regardless of your prior experience."
+        },
+        {
+          "collapse": "collapseFive3",
+          "heading": "headingFive3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "5. Will I get a certificate after completing a course?",
+          "desc": "Yes, upon successful completion of any of our courses, you will receive an official diploma or certificate, which can enhance your resume and help you stand out to employers."
+        },
+        {
+          "collapse": "collapseSix3",
+          "heading": "headingSix3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "6. Are the courses online or in-person?",
+          "desc": "SKILLERSITY offers both online and in-person courses, depending on your location and preferences. You can choose the learning mode that best suits your needs."
+        },
+        {
+          "collapse": "collapseSeven3",
+          "heading": "headingSeven3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "7. What is included in the curriculum?",
+          "desc": "Our courses include:",
+          "sub": [
+            {
+              "subto": "Live projects for practical experience"
+            },
+            {
+              "subto": "Industry-relevant tools and techniques"
+            },
+            {
+              "subto": "Personalized mentorship"
+            },
+            {
+              "subto": "Portfolio-building exercises to help you showcase your work to employers"
+            }
+          ]
+        },
+        {
+          "collapse": "collapseEight3",
+          "heading": "headingEight3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "8. How can I apply for a course?",
+          "desc": "You can apply through our website by filling out the registration form for your desired course. Once registered, you will receive further instructions on the next steps."
+        },
+        {
+          "collapse": "collapseNine3",
+          "heading": "headingNine3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "9. Do you offer job placement assistance?",
+          "desc": "While we do not guarantee job placement, SKILLERSITY provides career support, including portfolio reviews, interview preparation, and access to our network of industry partners."
+        },
+        {
+          "collapse": "collapseTen3",
+          "heading": "headingTen3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "10. Can I pay for the course in installments?",
+          "desc": "Yes, we offer flexible payment options, including installment plans, to make our courses more affordable."
+        },
+        {
+          "collapse": "collapseEleven3",
+          "heading": "headingEleven3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "11. What makes SKILLERSITY different from other training academies?",
+          "desc": "At SKILLERSITY, we emphasize learning by doing, providing you with hands-on projects and real-world experience. Our focus on creating strong portfolios, personalized career paths, and practical exposure sets us apart from traditional educational institutions."
+        },
+        {
+          "collapse": "collapseTwelve3",
+          "heading": "headingTwelve3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "12. What can I expect after completing my course?",
+          "desc": "After completing a course at SKILLERSITY, you will have the skills, experience, and a professional portfolio to apply for roles in your field. You will also gain the confidence and knowledge needed to advance your career or switch to a new industry."
+        }
+        ,
+        {
+          "collapse": "collapseThirteen3",
+          "heading": "headingThirteen3",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "13. How do I get more information about a course?",
+          "desc": "You can contact us through our website, call us directly, or send an email. Our team is happy to provide additional information or answer any specific questions you may have about our courses."
+        }
+      ],
+      "faqBody2": [
+        {
+          "collapse": "collapseOne4",
+          "heading": "headingOne4",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "5. Will I get a certificate after completing a course?",
+          "desc": "Yes, upon successful completion of any of our courses, you will receive an official diploma or certificate, which can enhance your resume and help you stand out to employers."
+        },
+        {
+          "collapse": "collapseTwo4",
+          "heading": "headingTwo4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "10 Brilliant Ways To Advertise Education",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree4",
+          "heading": "headingThree4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "7 Facts About Education That Will Blow",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour4",
+          "heading": "headingFour4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "15 Things To Know About Education?",
+          "desc": "If you're looking for random paragraphs, you've come to the right place. When a random word or a random sentence isn't quite enough, the next logical step is to find a random paragraph."
+        }
+      ]
+    }
+  ],
+
+  "AccordionFour": [
+    {
+      "tag": "faq",
+      "title": "Have a Question with ",
+      "subTitle": " Histudy University?",
+      "strong": "Its an educational platform",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+      "imgOne": "/images/about/about-03.jpg",
+      "imgTwo": "/images/about/about-11.jpg",
+      "faqBody": [
+        {
+          "collapse": "collapseOne4",
+          "heading": "headingOne4",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "accordionTitle": "What is Histudy ? How does it work?",
+          "desc": "You can run Histudy easily. Any School, University, College can be use this histudy education template for their educational purpose."
+        },
+        {
+          "collapse": "collapseTwo4",
+          "heading": "headingTwo4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I get the customer support?",
+          "desc": "After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com."
+        },
+        {
+          "collapse": "collapseThree4",
+          "heading": "headingThree4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "Can I get update regularly and For how long do I get updates?",
+          "desc": "Yes, We will get update the Histudy. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update."
+        },
+        {
+          "collapse": "collapseFour4",
+          "heading": "headingFour4",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "accordionTitle": "How can I run Histudy html template?",
+          "desc": "You can run Histudy easily. First You'll need to have node and npm on your machine. So Please open your command prompt then check your node."
+        }
+      ]
+    }
+  ],
+  "course": [
+    {
+      "tag": "COURSE PRICING",
+      "title": "Tuition & Fees",
+      "img": "/images/about/about-07.png",
+      "courseBody": [
+        {
+          "collapse": "tutioncollapseOne",
+          "heading": "tutionheadingOne",
+          "expanded": true,
+          "collapsed": true,
+          "show": true,
+          "subTitle": "Master of Business Administration (MBA)",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 500
+        },
+        {
+          "collapse": "tutioncollapseTwo",
+          "heading": "tutionheadingTwo",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "MSS in Economics",
+          "text": "Admission Eligibility Breakdown 2024",
+          "cost": 4589
+        },
+        {
+          "collapse": "tutioncollapseThe",
+          "heading": "tutionheadingThree",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "MS in Applied Physics & Electronics",
+          "text": "Admission Eligibility Breakdown 2024",
+          "cost": 1400
+        },
+        {
+          "collapse": "tutioncollapseFour",
+          "heading": "tutionheadingFour",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Master of Laws (LL.M.)",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 4589
+        },
+        {
+          "collapse": "tutioncollapseFive",
+          "heading": "tutionheadingFive",
+          "expanded": false,
+          "collapsed": false,
+          "show": false,
+          "subTitle": "Master of Population, Reproductive Health",
+          "text": "Total Cost Breakdown 2024",
+          "cost": 5000
+        }
+      ]
+    }
+  ]
+}

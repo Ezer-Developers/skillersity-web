@@ -1,0 +1,127 @@
+{
+  "footerOne": [
+    {
+      "description": " We’re always in search for talented and motivated people.Don’t be shy introduce yourself!",
+      "phone": "(406) 555-0120",
+      "mail": "rainbow@example.com",
+      "address": "North America, USA",
+      "usefulLinks": [
+        {
+          "text": "Marketplace",
+          "link": "/12-marketplace"
+        },
+        {
+          "text": "kindergarten",
+          "link": "/04-kindergarten"
+        },
+        {
+          "text": "University",
+          "link": "/13-university-classic"
+        },
+        {
+          "text": "Classic Lms",
+          "link": "/05-classic-lms"
+        },
+        {
+          "text": "FAQ",
+          "link": "/faqs"
+        }
+      ],
+      "ourCompany": [
+        {
+          "text": "Contact Us",
+          "link": "/contact"
+        },
+        {
+          "text": "Become Teacher",
+          "link": "/career_details"
+        },
+        {
+          "text": "Blog",
+          "link": "/blog-list"
+        },
+        {
+          "text": "Instructor",
+          "link": "/elements/team"
+        },
+        {
+          "text": "Events",
+          "link": "/pages/event-list"
+        }
+      ],
+      "socialLink": [
+        {
+          "icon": "feather-facebook",
+          "link": " https://www.facebook.com/share/1Abr7TXj2h/?mibextid=LQQJ4d"
+        },
+        {
+          "icon": "feather-instagram",
+          "link": "https://www.instagram.com/skillersity?igsh=aWtnemU2dm42cmJv"
+        },
+        {
+          "icon": "feather-linkedin",
+          "link": "https://www.linkedin.com/company/skillersity/"
+        }
+      ]
+    }
+  ],
+  "footerTwo": [
+    {
+      "description": "We’re always in search for talented and motivated people.Don’t be shy introduce yourself!",
+      "descriptionTwo": "2000+ Our students are subscribe Around the World.Don’t be shy introduce yourself!",
+      "phone": "+91 9605 66 22 77",
+      "mail": "Info@skillersity.com",
+      "address": "Panadans , CUSAT, Kalamassery, Kochi, Kerala 682022",
+      "usefulLinks": [
+        {
+          "text": "Digital Marketing",
+          "link": "/course-details/1"
+        },
+        {
+          "text": "Graphic Designing",
+          "link": "/course-details/2"
+        },
+        {
+          "text": "Video Editing",
+          "link": "/course-details/3"
+        }
+      ],
+      "ourCompany": [
+        {
+          "text": "Contact Us",
+          "link": "/contact"
+        },
+        {
+          "text": "Courses",
+          "link": "/courses"
+        },
+        {
+          "text": "Blog",
+          "link": "/blogs"
+        },
+        {
+          "text": "Careers",
+          "link": "/careers"
+        },
+        {
+          "text": "FAQ",
+          "link": "/faqs"
+        }
+      ],
+      "socialLink": [
+        {
+          "icon": "feather-facebook",
+          "link": " https://www.facebook.com/share/1Abr7TXj2h/?mibextid=LQQJ4d"
+        },
+        {
+          "icon": "feather-instagram",
+          "link": "https://www.instagram.com/skillersity?igsh=aWtnemU2dm42cmJv"
+        },
+        {
+          "icon": "feather-linkedin",
+          "link": "https://www.linkedin.com/company/skillersity/"
+        }
+      ]
+    }
+  ]
+}

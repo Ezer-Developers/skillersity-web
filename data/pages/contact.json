@@ -1,0 +1,27 @@
+{
+  "contactOne": [
+    {
+      "title": "Contact Phone Number",
+      "numOne": "+91 9605 66 22 77",
+      "numTwo": "+222 222 222 333",
+      "icon": "feather-headphones",
+      "address": ""
+    },
+    {
+      "title": "Our Email Address",
+      "mailOne": "Info@skillersity.com",
+      "mailTwo": "example@gmail.com",
+      "icon": "feather-mail",
+      "numOne": "",
+      "address": "",
+      "numTwo": ""
+    },
+    {
+      "title": "Our Location",
+      "address": "Panadans , CUSAT, Kalamassery, Kochi, Kerala 682022",
+      "icon": "feather-map-pin",
+      "numOne": "",
+      "numTwo": ""
+    }
+  ]
+}
